@@ -1,0 +1,14 @@
+prefix=/Users/ketankotla/Desktop/mjmlab/snakemake-demo/.snakemake/conda/4be74547
+exec_prefix=/Users/ketankotla/Desktop/mjmlab/snakemake-demo/.snakemake/conda/4be74547
+libdir=/Users/ketankotla/Desktop/mjmlab/snakemake-demo/.snakemake/conda/4be74547/lib
+includedir=/Users/ketankotla/Desktop/mjmlab/snakemake-demo/.snakemake/conda/4be74547/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 23.4.17
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/Users/ketankotla/Desktop/mjmlab/snakemake-demo/.snakemake/conda/4be74547/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

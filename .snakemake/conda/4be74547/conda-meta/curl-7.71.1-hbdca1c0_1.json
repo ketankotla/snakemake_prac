@@ -1,0 +1,49 @@
+{
+  "build": "hbdca1c0_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "krb5 >=1.17.1,<1.18.0a0",
+    "libcurl 7.71.1 he6690cf_1",
+    "libssh2 >=1.9.0,<2.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "extracted_package_dir": "/Users/ketankotla/opt/miniconda3/pkgs/curl-7.71.1-hbdca1c0_1",
+  "features": "",
+  "files": [
+    "bin/curl"
+  ],
+  "fn": "curl-7.71.1-hbdca1c0_1.tar.bz2",
+  "license": "MIT/X derivate (http://curl.haxx.se/docs/copyright.html)",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/ketankotla/opt/miniconda3/pkgs/curl-7.71.1-hbdca1c0_1",
+    "type": 1
+  },
+  "md5": "070d650816888b2290e2f0f45fbb637f",
+  "name": "curl",
+  "package_tarball_full_path": "/Users/ketankotla/opt/miniconda3/pkgs/curl-7.71.1-hbdca1c0_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/curl",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/curl_split_recipe_1594384553480/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "2197074381ae27dd80b8168e33d62af5bed58f0719719e1703d46131ed3cbd26",
+        "sha256_in_prefix": "a908e0b4b2b30d76361934e469eaa0fabd00205cecc2afe9fc83ae8cd12d5d76",
+        "size_in_bytes": 226020
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3a3cbdb9cc385073fcb2a7ab96d9bfb6839fae1cc6e24899e2068496eb6b8340",
+  "size": 135780,
+  "subdir": "osx-64",
+  "timestamp": 1594384969300,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/curl-7.71.1-hbdca1c0_1.tar.bz2",
+  "version": "7.71.1"
+}
