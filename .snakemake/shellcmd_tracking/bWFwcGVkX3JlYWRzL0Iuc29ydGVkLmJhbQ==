@@ -1,1 +1,0 @@
-samtools sort -o mapped_reads/B.sorted.bam mapped_reads/B.bam
